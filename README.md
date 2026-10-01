@@ -149,4 +149,4 @@ Only the Python standard library and `curl` are needed. The script:
 
 ## Data use
 
-The data comes from public sources: **NSE** (prices, derivatives, indices, filings) and **Google News** (headlines, which remain the property of their publishers). It is collected **for academic research only**. NSE's terms of use restrict redistribution, so keep this repository **private**, or share only the scripts and let others rebuild the data with `collect_all.py`.
+Collected from public sources for academic research only. NSE data and news headlines remain the property of their owners; do not redistribute.
